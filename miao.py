@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-喵喵AI (miao-troll)
+clude
 
 一只只会说「喵」的猫。它的脑子是我从零手搓的一个小神经网络（见 brain.py），
 只在本地训练、零依赖、不联网、不碰任何现成模型。
