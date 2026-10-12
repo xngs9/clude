@@ -1,1 +1,4 @@
-# bootstrap
+__pycache__/
+*.pyc
+brain.json
+sandbox/
